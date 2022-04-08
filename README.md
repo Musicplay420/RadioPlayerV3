@@ -1,13 +1,13 @@
 # Telegram Radio Player V3 [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV3?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV3?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV3)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/RadioPlayerV3)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/RadioPlayerV3)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/RadioPlayerV3)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/RadioPlayerV3?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV3?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV3)
+![GitHub Repo stars](https://img.shields.io/github/stars/Musicplay420/RadioPlayerV3?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/musicplay420/RadioPlayerV3?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/musicplay420/RadioPlayerV3)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/musicplay420/RadioPlayerV3)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/musicplay420/RadioPlayerV3)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Musicplay420/RadioPlayerV3)
+![GitHub contributors](https://img.shields.io/github/contributors/musicplay420/RadioPlayerV3?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/musicplay420/RadioPlayerV3?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/musicplay420/RadioPlayerV3)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV3)
 [![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/AsmSafone)
 [![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/AsmSupport)
@@ -16,7 +16,7 @@
 An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](https://t.me/AsmSupport) Group.
+Radio in [musicplay420](https://t.me/musicplay420) Channel & Music in [musicplay420](https://t.me/musicplay420) Group.
 
 ## Special Features
 
@@ -61,7 +61,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - Bot will starts radio automatically in given `CHAT_ID` with given `STREAM_URL` after deploy. 
 - 24x7 Music even if heroku restarts, radio stream restarts automatically. 
 - To play a song use /play as a reply to audio file or a youtube link or use /play [song name].
-- To download audio you can use [@SafoneMusicBot](http://t.me/SafoneMusicBot) or `/song` command to the bot.
+- To download audio you can use [musicplay420](http://t.me/SafoneMusicBot) or `/song` command to the bot.
 - Use `/help` to know about other commands & their usage.
 
 ## Requirements
@@ -76,7 +76,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 ## Run On VPS
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV3
+$ git clone https://github.com/musicplay420/RadioPlayerV3
 $ cd RadioPlayerV3
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
@@ -107,8 +107,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/RadioPlayerV3) 😬
+- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/musicplay420/RadioPlayerV3) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/RadioPlayerV3/graphs/contributors)! ❤️
+- [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/musicplay420/tgcalls) ❤️
+- And Thanks To All [Contributors](https://github.com/musicplay420/RadioPlayerV3/graphs/contributors)! ❤️
 
